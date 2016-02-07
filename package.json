@@ -1,0 +1,26 @@
+{
+  "title": "Test",
+  "description": "The best WordPress extension ever made!",
+  "version": "1.0.0",
+  "homepage": "http://wordpress.org/plugins/test",
+  "author": {
+    "name": "Mickey Kay",
+    "email": "mickey@mickeykaycreative.com",
+    "url": "http://mickeykaycreative.com?utm_source=test&utm_medium=plugin-repo&utm_campaign=WordPress%20Plugins"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-dev-update": "latest",
+    "grunt-phpdocumentor": "^0.4.1",
+    "grunt-prompt": "latest",
+    "grunt-text-replace": "latest",
+    "grunt-wp-i18n": "latest",
+    "grunt-wp-readme-to-markdown": "latest",
+    "load-grunt-tasks": "latest"
+  },
+  "keywords": []
+}
